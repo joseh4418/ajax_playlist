@@ -1,6 +1,8 @@
 body{
 	width: 95%;
 	margin: 0 auto;
+	background: url(../img/robo.jpg);
+	background-size: cover;
 }
 
 img{
